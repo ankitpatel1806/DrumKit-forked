@@ -5,10 +5,10 @@ body {
 }
 
 h1 {
-  font-size: 5rem;
+  font-size: 8rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
-  text-shadow: 3px 0 #DA0463;
+  text-shadow: 5px 0 #DA0463;
 }
 
 .w {
